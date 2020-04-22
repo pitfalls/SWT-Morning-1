@@ -38,6 +38,17 @@
         app:layout_constraintStart_toEndOf="@+id/btn_delete"
         tools:layout_editor_absoluteY="42dp" />
 
+    <Button
+        android:id="@+id/btn_manage_hotel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="68dp"
+        android:text="@string/manage_hotel"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.875"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btn_change_price" />
+
     <ImageButton
         android:id="@+id/btn_SearchHotel"
         android:layout_width="71dp"
