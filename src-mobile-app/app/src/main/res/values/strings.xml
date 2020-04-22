@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Hotel</string>
+    <string name="sort">Sort</string>
+    <string name="filter">Filter</string>
+    <string name="hint_Location">Location</string>
+    <string name="switch_login">Switch To Login</string>
 </resources>
