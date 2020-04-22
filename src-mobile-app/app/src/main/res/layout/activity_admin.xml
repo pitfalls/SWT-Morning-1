@@ -12,7 +12,9 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="150dp"
         android:layout_marginEnd="150dp"
-        android:text="Hotel...Awesome"
+        android:textSize="32dp"
+        android:textColor="#4a5ac0"
+        android:text="Admin"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 

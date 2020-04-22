@@ -13,6 +13,8 @@
         android:layout_marginStart="150dp"
         android:layout_marginEnd="150dp"
         android:text="Hotel...Awesome"
+        android:textColor="#5b39c6"
+        android:textSize="32dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
